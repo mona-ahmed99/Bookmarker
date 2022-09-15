@@ -1,0 +1,45 @@
+header .container{
+    color: #AAA;
+    padding: 20px;
+    border-bottom: 1px solid #999;
+    font-size: 30px;
+}
+.siteBox{
+    background-color: #EEE;
+}
+.siteBox p{
+    font-weight: bold;
+    color: #333;
+}
+footer .container{
+    color: #AAA;
+    font-weight: bold;
+    border-top: 1px solid #999;
+    
+}
+section .container{
+    background-image: linear-gradient(#EEE,#FFF);
+    padding: 20px;
+}
+section .container h2{
+    font-size: 25px;
+   color: #333;
+
+}
+.table td {
+    border-top: none !important;
+}
+.alert-error{
+    background-color: #ffb2b2;
+    color: #6d0000 !important;
+    border: 1px solid #6d0000 !important;
+}
+.alert {
+    padding: 5px;
+    margin: 10px;
+    width: 75%;
+    margin: auto;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align: center;
+}
